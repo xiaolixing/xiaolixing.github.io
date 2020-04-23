@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.lixingtk.cn/"/>
-  <updated>2020-03-27T13:01:03.550Z</updated>
+  <updated>2020-04-23T11:10:37.408Z</updated>
   <id>http://blog.lixingtk.cn/</id>
   
   <author>
@@ -15,6 +15,91 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>tiktok新手教程-工具准备</title>
+    <link href="http://blog.lixingtk.cn/posts/3e2adfe6.html"/>
+    <id>http://blog.lixingtk.cn/posts/3e2adfe6.html</id>
+    <published>2020-04-23T09:56:32.000Z</published>
+    <updated>2020-04-23T11:10:37.408Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>Tik Tok是抖音短视频国际版。随着Tik Tok在海外接连获得佳绩，抖音短视频已经成为中国产品在海外获得成功的又一杰出代表，被视为中国移动产品出海的新模式。</p><a id="more"></a><p><a href="https://www.apkmirror.com/apk/google-inc/" target="_blank" rel="noopener">安卓apk镜像地址</a></p><p>第一个VPN：<br><a href="https://ji-ao.pw/" target="_blank" rel="noopener">vpn（有免费流量，邀请别人也送流量，教程很全）</a><br><a href="http://qn.sharepay.xyz/1587546006881.apk" target="_blank" rel="noopener">ChinaG_Android v1.0</a><br><a href="http://qn.sharepay.xyz/1587546040783.apk" target="_blank" rel="noopener">通用.常用.Android.R</a></p><p>第二个VPN：<br><a href="http://qn.sharepay.xyz/1587545913535.apk" target="_blank" rel="noopener">VPN</a></p><p>Google服务框架<br><a href="http://qn.sharepay.xyz/1587545928962.apk" target="_blank" rel="noopener">Android 9</a><br><a href="http://qn.sharepay.xyz/1587545953410.apk" target="_blank" rel="noopener">Android 8</a><br><a href="http://qn.sharepay.xyz/1587545967737.apk" target="_blank" rel="noopener">Android 7</a><br><a href="http://qn.sharepay.xyz/1587545837791.apk" target="_blank" rel="noopener">Google Play services</a><br><a href="http://qn.sharepay.xyz/1587545699635.apk" target="_blank" rel="noopener">Google Play</a></p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新中… …</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;Tik Tok是抖音短视频国际版。随着Tik Tok在海外接连获得佳绩，抖音短视频已经成为中国产品在海外获得成功的又一杰出代表，被视为中国移动产品出海的新模式。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="科学上网" scheme="http://blog.lixingtk.cn/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="工具" scheme="http://blog.lixingtk.cn/categories/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/%E5%B7%A5%E5%85%B7/"/>
+    
+    
+      <category term="抖音" scheme="http://blog.lixingtk.cn/tags/%E6%8A%96%E9%9F%B3/"/>
+    
+      <category term="科学上网" scheme="http://blog.lixingtk.cn/tags/%E7%A7%91%E5%AD%A6%E4%B8%8A%E7%BD%91/"/>
+    
+      <category term="安装包" scheme="http://blog.lixingtk.cn/tags/%E5%AE%89%E8%A3%85%E5%8C%85/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>淘口令解析API</title>
+    <link href="http://blog.lixingtk.cn/posts/19c2f340.html"/>
+    <id>http://blog.lixingtk.cn/posts/19c2f340.html</id>
+    <published>2020-04-23T09:09:53.000Z</published>
+    <updated>2020-04-23T11:11:14.689Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>淘宝客-推广者-淘口令解析<br><strong><a href="https://open.taobao.com/api.htm?docId=32932&docType=2&scopeId=16290" target="_blank" rel="noopener">官方文档</a></strong></p><a id="more"></a><h2 id="接口文档"><a href="#接口文档" class="headerlink" title="接口文档"></a>接口文档</h2><p><strong>请求URL：</strong> </p><ul><li><code>/api/taoBao/getConvertTkl</code></li></ul><p><strong>请求方式：</strong></p><ul><li>GET </li></ul><p><strong>参数：</strong> </p><table><thead><tr><th align="left">参数名</th><th align="left">必选</th><th align="left">类型</th><th>说明</th></tr></thead><tbody><tr><td align="left">tkl</td><td align="left">是</td><td align="left">string</td><td>淘口令例如： ￥2gSo1O3hpQ7￥</td></tr></tbody></table><p> <strong>返回示例</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"> </span><br></pre></td></tr></table></figure><p> <strong>返回参数说明</strong> </p><table><thead><tr><th align="left">参数名</th><th align="left">类型</th><th>说明</th></tr></thead><tbody><tr><td align="left">numIid</td><td align="left">String</td><td>商品ID</td></tr></tbody></table><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新中… …</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;淘宝客-推广者-淘口令解析&lt;br&gt;&lt;strong&gt;&lt;a href=&quot;https://open.taobao.com/api.htm?docId=32932&amp;docType=2&amp;scopeId=16290&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;官方文档&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Java后端" scheme="http://blog.lixingtk.cn/categories/Java%E5%90%8E%E7%AB%AF/"/>
+    
+      <category term="API接口" scheme="http://blog.lixingtk.cn/categories/Java%E5%90%8E%E7%AB%AF/API%E6%8E%A5%E5%8F%A3/"/>
+    
+      <category term="淘宝客" scheme="http://blog.lixingtk.cn/categories/Java%E5%90%8E%E7%AB%AF/API%E6%8E%A5%E5%8F%A3/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
+    
+    
+      <category term="Java" scheme="http://blog.lixingtk.cn/tags/Java/"/>
+    
+      <category term="淘宝客" scheme="http://blog.lixingtk.cn/tags/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>微信公众号系统使用说明v1</title>
+    <link href="http://blog.lixingtk.cn/posts/19baa3a6.html"/>
+    <id>http://blog.lixingtk.cn/posts/19baa3a6.html</id>
+    <published>2020-03-28T15:11:38.000Z</published>
+    <updated>2020-04-23T09:54:55.346Z</updated>
+    
+    <content type="html"><![CDATA[<p>微信公众号系统使用说明文档</p><a id="more"></a><p>啥也没有，这个人很懒</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;微信公众号系统使用说明文档&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="微信公众号系统" scheme="http://blog.lixingtk.cn/categories/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="淘宝客" scheme="http://blog.lixingtk.cn/categories/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7%E7%B3%BB%E7%BB%9F/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
+    
+    
+      <category term="淘宝客" scheme="http://blog.lixingtk.cn/tags/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
+    
+      <category term="使用说明文档" scheme="http://blog.lixingtk.cn/tags/%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/"/>
+    
+  </entry>
   
   <entry>
     <title>淘宝客基础知识</title>
@@ -46,9 +131,13 @@
     <link href="http://blog.lixingtk.cn/posts/831d1f53.html"/>
     <id>http://blog.lixingtk.cn/posts/831d1f53.html</id>
     <published>2020-03-13T06:22:18.000Z</published>
-    <updated>2020-03-13T06:27:54.458Z</updated>
+    <updated>2020-04-23T11:12:30.385Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>使用Google Guava实现定时缓存功能</p><a id="more"></a><p>Maven仓库地址</p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">&lt;!--高效缓存--&gt;</span><br><span class="line">&lt;dependency&gt;</span><br><span class="line">    &lt;groupId&gt;com.google.guava&lt;&#x2F;groupId&gt;</span><br><span class="line">    &lt;artifactId&gt;guava&lt;&#x2F;artifactId&gt;</span><br><span class="line">    &lt;version&gt;$&#123;google-guava.version&#125;&lt;&#x2F;version&gt;</span><br><span class="line">&lt;&#x2F;dependency&gt;</span><br></pre></td></tr></table></figure><p>创建     CacheManager.java </p><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br><span class="line">30</span><br><span class="line">31</span><br><span class="line">32</span><br><span class="line">33</span><br><span class="line">34</span><br><span class="line">35</span><br><span class="line">36</span><br><span class="line">37</span><br><span class="line">38</span><br><span class="line">39</span><br><span class="line">40</span><br><span class="line">41</span><br><span class="line">42</span><br><span class="line">43</span><br><span class="line">44</span><br><span class="line">45</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">private</span> <span class="keyword">static</span> CacheBuilder&lt;Object, Object&gt; cacheBuilder = CacheBuilder.newBuilder()</span><br><span class="line">            .expireAfterWrite(NumberUtils.INTEGER_TWO, TimeUnit.DAYS)</span><br><span class="line">            .initialCapacity(<span class="number">10</span>)</span><br><span class="line">            .maximumSize(<span class="number">2000</span>);</span><br><span class="line"></span><br><span class="line"><span class="keyword">private</span> <span class="keyword">static</span> Cache&lt;String, Object&gt; cache;</span><br><span class="line"></span><br><span class="line"><span class="keyword">static</span>&#123;</span><br><span class="line">    cache = cacheBuilder.build();</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * 添加缓存</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> key key</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> value 值</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">set</span><span class="params">(String key, Object value)</span> </span>&#123;</span><br><span class="line">    cache.put(key,value);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * 根据key取得缓存对象</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> key key</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@return</span> 结果</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Object <span class="title">get</span><span class="params">(String key)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> cache.getIfPresent(key);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * 删除缓存</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> key key</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> <span class="keyword">void</span> <span class="title">del</span><span class="params">(String key)</span></span>&#123;</span><br><span class="line">    cache.invalidate(key);</span><br><span class="line">&#125;</span><br><span class="line"></span><br><span class="line"><span class="comment">/**</span></span><br><span class="line"><span class="comment"> * 判断key值是否存在</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@param</span> key key</span></span><br><span class="line"><span class="comment"> * <span class="doctag">@return</span> 结果</span></span><br><span class="line"><span class="comment"> */</span></span><br><span class="line"><span class="function"><span class="keyword">public</span> <span class="keyword">static</span> Boolean <span class="title">containsKey</span><span class="params">(String key)</span> </span>&#123;</span><br><span class="line">    <span class="keyword">return</span> cache.getIfPresent(key) == <span class="keyword">null</span> ? Boolean.FALSE : Boolean.TRUE;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新… …</p>]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;p&gt;使用Google Guava实现定时缓存功能&lt;/p&gt;
     
     </summary>
     
@@ -65,9 +154,13 @@
     <link href="http://blog.lixingtk.cn/posts/a21ccae3.html"/>
     <id>http://blog.lixingtk.cn/posts/a21ccae3.html</id>
     <published>2020-03-10T07:00:00.000Z</published>
-    <updated>2020-03-13T06:27:54.462Z</updated>
+    <updated>2020-04-23T09:54:54.425Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><h4 id="无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔"><a href="#无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔" class="headerlink" title="无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔"></a>无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔</h4><a id="more"></a><p><code>2020年3月15日</code></p><ul><li>[√] 增加普通分佣方案添加、修改、删除</li><li>[√] 增加订单跟踪、订单分佣（定向比例 &gt; 普通分佣方案）、订单自动绑定、发送订单号绑定</li><li>[√] 增加订单列表</li><li>[√] 增加用户管理、用户详情查看、修改订单后六位、修改余额、用户标签、用户定向比例</li><li>[√] 增加提现列表、查看用户详情、删除</li></ul><p><code>2020年2月21日</code><br>WEB版本上线 <a href="http://web.sharepay.xyz" target="_blank" rel="noopener">中心系统</a> | <a href="http://wxmp.sharepay.xyz" target="_blank" rel="noopener">公众号系统</a></p><ul><li><p>中心系统:</p><ul><li>淘宝联盟授权</li></ul></li><li><p>公众号系统:</p><ul><li>公众号配置</li><li>回复关键词配置</li></ul><p><code>2020年1月22日</code></p></li><li><p>[√] 公众号（订阅号）基础版本上线。</p></li><li><p>[√] 支持：淘宝链接、淘口令、商品ID、喵口令（天猫APP）、商品标题（需大于等于30个汉字）查券</p></li><li><p>[√] 饿了么红包口令（饿了么红包）</p></li><li><p>[√] 支持多公众号、多联盟（即授权多个淘宝联盟可以配置不同的公众号）配置，目前没有限制公众号数量。</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新中… …</p></li></ul>]]></content>
     
     <summary type="html">
+    
+      &lt;h1 id=&quot;引言&quot;&gt;&lt;a href=&quot;#引言&quot; class=&quot;headerlink&quot; title=&quot;引言&quot;&gt;&lt;/a&gt;引言&lt;/h1&gt;&lt;h4 id=&quot;无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔&quot;&gt;&lt;a href=&quot;#无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔&quot; class=&quot;headerlink&quot; title=&quot;无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔&quot;&gt;&lt;/a&gt;无论它能走多远，抑或如何支撑？至少我曾倾注全心，无怨无悔&lt;/h4&gt;
     
     </summary>
     
@@ -92,9 +185,13 @@
     <link href="http://blog.lixingtk.cn/posts/44572176.html"/>
     <id>http://blog.lixingtk.cn/posts/44572176.html</id>
     <published>2020-03-10T01:50:47.000Z</published>
-    <updated>2020-03-10T07:55:13.640Z</updated>
+    <updated>2020-04-23T09:54:56.538Z</updated>
+    
+    <content type="html"><![CDATA[<div id="hexo-blog-encrypt" data-wpm="抱歉, 这个密码看着不太对, 请再试试." data-whm="抱歉, 这个文章不能被校验, 不过您还是能看看解密后的内容.">  <div class="hbe-input-container">  <input type="password" id="hbePass" placeholder="" />    <label for="hbePass">您好, 这里需要密码.</label>    <div class="bottom-line"></div>  </div>  <script id="hbeData" type="hbeData" data-hmacdigest="e17426dee67147aafba7675f2ef1e693ff7442a0922b16c7466be3555480abcf">c9535ba41d08f31f17118f514caf9cca87ac940a5cabd62207b19d6f6ff0239c744ace11ff5e7d128208435a01b67fc3a64fc4ca15766b27efeccb76f9b461eceefebf121f804324f9cd36b4082b4031b1469844988a60482a8dd1c8dc3b9e3456df9a5778455d0ef8e1110ef0468628a1cad33341d1439538552e512720c63a34b76038dfbbd63f2a2787c22aa308825fb20bfea9e03fc90dbb3c0d88919c0c8e81736b63b928270f68d7fbf138d1966c4af0d1e1cc77bc27c5b20c8f3e473eca68a189a6ddc304243738095ec45e3af702cd8acef245e52fcffe9747b737f6</script></div><script src="/lib/blog-encrypt.js"></script><link href="/css/blog-encrypt.css" rel="stylesheet" type="text/css">]]></content>
     
     <summary type="html">
+    
+      有东西被加密了, 请输入密码查看.
     
     </summary>
     
@@ -113,9 +210,9 @@
     <link href="http://blog.lixingtk.cn/posts/f3fb008f.html"/>
     <id>http://blog.lixingtk.cn/posts/f3fb008f.html</id>
     <published>2020-03-10T01:50:32.000Z</published>
-    <updated>2020-03-10T08:06:16.415Z</updated>
+    <updated>2020-04-23T09:54:53.321Z</updated>
     
-    <content type="html"><![CDATA[<p>基于hexo的博客系统</p><a id="more"></a><p>工具网站<br>网站图标：<a href="https://realfavicongenerator.net/" target="_blank" rel="noopener">https://realfavicongenerator.net/</a><br>hexo教程：<a href="https://blog.csdn.net/jankingmeaning/article/details/88783308" target="_blank" rel="noopener">https://blog.csdn.net/jankingmeaning/article/details/88783308</a><br>永久链接：<a href="https://blog.csdn.net/lewky_liu/article/details/80517635" target="_blank" rel="noopener">https://blog.csdn.net/lewky_liu/article/details/80517635</a><br>文章字数统计：<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">https://github.com/theme-next/hexo-symbols-count-time</a><br>文章加密：<a href="https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md" target="_blank" rel="noopener">https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md</a></p><p>npm命令<br>本地搜索<br>npm install hexo-generator-search –save<br>添加RSS订阅<br>npm install hexo-generator-feed –save<br>显示最近博客<br>npm install hexo-related-popular-posts –save<br>添加文章字数统计<br>npm install hexo-symbols-count-time –save<br>网站速度优化<br>npm install gulp -g<br>SEO优化<br>npm install gulp-minify-css gulp-uglify gulp-htmlmin gulp-imagemin gulp-htmlclean  gulp –save<br>永久链接<br>npm install hexo-abbrlink –save</p><p>本地预览<br>清空：hexo clear<br>打包：hexo generate<br>发布：hexo server</p><p>打包部署到github page<br>hexo clear<br>hexo g<br>hexo d</p>]]></content>
+    <content type="html"><![CDATA[<p>基于hexo的博客系统</p><a id="more"></a><p>工具网站<br>网站图标：<a href="https://realfavicongenerator.net/" target="_blank" rel="noopener">https://realfavicongenerator.net/</a><br>hexo教程：<a href="https://blog.csdn.net/jankingmeaning/article/details/88783308" target="_blank" rel="noopener">https://blog.csdn.net/jankingmeaning/article/details/88783308</a><br>永久链接：<a href="https://blog.csdn.net/lewky_liu/article/details/80517635" target="_blank" rel="noopener">https://blog.csdn.net/lewky_liu/article/details/80517635</a><br>文章字数统计：<a href="https://github.com/theme-next/hexo-symbols-count-time" target="_blank" rel="noopener">https://github.com/theme-next/hexo-symbols-count-time</a><br>文章加密：<a href="https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md" target="_blank" rel="noopener">https://github.com/MikeCoder/hexo-blog-encrypt/blob/master/ReadMe.zh.md</a></p><p>npm命令<br>本地搜索<br>npm install hexo-generator-search –save<br>添加RSS订阅<br>npm install hexo-generator-feed –save<br>显示最近博客<br>npm install hexo-related-popular-posts –save<br>添加文章字数统计<br>npm install hexo-symbols-count-time –save<br>网站速度优化<br>npm install gulp -g<br>SEO优化<br>npm install gulp-minify-css gulp-uglify gulp-htmlmin gulp-imagemin gulp-htmlclean  gulp –save<br>永久链接<br>npm install hexo-abbrlink –save</p><p>本地预览<br>清空：hexo clean<br>打包：hexo generate<br>发布：hexo server</p><p>打包部署到github page<br>hexo clean<br>hexo g<br>hexo d</p>]]></content>
     
     <summary type="html">
     
@@ -128,25 +225,6 @@
     
     
       <category term="hexo" scheme="http://blog.lixingtk.cn/tags/hexo/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://blog.lixingtk.cn/posts/4a17b156.html"/>
-    <id>http://blog.lixingtk.cn/posts/4a17b156.html</id>
-    <published>2020-03-09T13:38:51.288Z</published>
-    <updated>2020-03-10T08:05:36.558Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a> <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a>111</p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-    
-    </summary>
-    
-    
     
   </entry>
   
