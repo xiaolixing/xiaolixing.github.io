@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.lixingtk.cn/"/>
-  <updated>2020-04-23T11:10:37.408Z</updated>
+  <updated>2020-04-24T05:05:11.677Z</updated>
   <id>http://blog.lixingtk.cn/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>工具整理</title>
+    <link href="http://blog.lixingtk.cn/posts/8e56c52e.html"/>
+    <id>http://blog.lixingtk.cn/posts/8e56c52e.html</id>
+    <published>2020-04-24T04:50:00.000Z</published>
+    <updated>2020-04-24T05:05:11.677Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="工具整理"><a href="#工具整理" class="headerlink" title="工具整理"></a>工具整理</h1><p>JAVA反编译查看源码、MYSQL链接工具、REDIS桌面工具</p><a id="more"></a><table><thead><tr><th>名称</th><th>密码</th><th>描述</th></tr></thead><tbody><tr><td><a href="https://daxing.lanzous.com/ibv7r3e" target="_blank" rel="noopener">Google-services-framework-9</a></td><td>cvbz</td><td>Google服务框架</td></tr><tr><td><a href="https://daxing.lanzous.com/ibv7qxi" target="_blank" rel="noopener">google-play-store-13.8.16</a></td><td>c6ea</td><td>Google应用商店</td></tr><tr><td><a href="https://daxing.lanzous.com/ibv7qqb" target="_blank" rel="noopener">google-play-services-15.0.90</a></td><td>5rvx</td><td>Google服务框架</td></tr><tr><td><a href="https://daxing.lanzous.com/ibv7xli" target="_blank" rel="noopener">jd-gui-windows-1.4.0</a></td><td>hdvk</td><td>JAVA反编译查看源码</td></tr><tr><td><a href="https://daxing.lanzous.com/ibv7xvi" target="_blank" rel="noopener">navicat-1.2.0_x64</a></td><td>7dcp</td><td>MYSQL链接工具</td></tr><tr><td><a href="https://daxing.lanzous.com/ibv7y4h" target="_blank" rel="noopener">redis-desktop-manager-0.9.3.817</a></td><td>b0st</td><td>REDIS桌面工具</td></tr><tr><td><a href="https://daxing.lanzous.com/ibv7yad" target="_blank" rel="noopener">TortoiseGit-2.8.0.0</a></td><td>ctog</td><td>GIT下载（缅怀SVN）</td></tr></tbody></table><blockquote><p>如有侵权请联系发邮件到 <a href="mailto:xiaoxx512@163.com">xiaoxx512@163.com</a></p></blockquote><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新… …</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;工具整理&quot;&gt;&lt;a href=&quot;#工具整理&quot; class=&quot;headerlink&quot; title=&quot;工具整理&quot;&gt;&lt;/a&gt;工具整理&lt;/h1&gt;&lt;p&gt;JAVA反编译查看源码、MYSQL链接工具、REDIS桌面工具&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="工具" scheme="http://blog.lixingtk.cn/categories/%E5%B7%A5%E5%85%B7/"/>
+    
+      <category term="Windows" scheme="http://blog.lixingtk.cn/categories/%E5%B7%A5%E5%85%B7/Windows/"/>
+    
+    
+      <category term="Java" scheme="http://blog.lixingtk.cn/tags/Java/"/>
+    
+      <category term="安装包" scheme="http://blog.lixingtk.cn/tags/%E5%AE%89%E8%A3%85%E5%8C%85/"/>
+    
+      <category term="Redis" scheme="http://blog.lixingtk.cn/tags/Redis/"/>
+    
+      <category term="MySql" scheme="http://blog.lixingtk.cn/tags/MySql/"/>
+    
+  </entry>
   
   <entry>
     <title>tiktok新手教程-工具准备</title>
@@ -106,13 +137,15 @@
     <link href="http://blog.lixingtk.cn/posts/f59e577.html"/>
     <id>http://blog.lixingtk.cn/posts/f59e577.html</id>
     <published>2020-03-27T12:35:56.000Z</published>
-    <updated>2020-03-27T13:01:03.550Z</updated>
+    <updated>2020-04-23T11:25:11.367Z</updated>
     
-    <content type="html"><![CDATA[<h4 id="什么是淘宝客"><a href="#什么是淘宝客" class="headerlink" title="什么是淘宝客"></a>什么是淘宝客</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">淘宝客是阿里妈妈（淘宝联盟）旗下的一种按成交计费的CPS推广模式，同时也指帮助淘宝卖家推广商品并获取佣金的人。</span><br></pre></td></tr></table></figure><a id="more"></a><h5 id="推荐阅读：10800字深度解析淘宝客这个赚钱的神秘行业"><a href="#推荐阅读：10800字深度解析淘宝客这个赚钱的神秘行业" class="headerlink" title="推荐阅读：10800字深度解析淘宝客这个赚钱的神秘行业"></a>推荐阅读：<a href="https://mp.weixin.qq.com/s/JiQD4lxhdP82ra6pF6Y7Bw" target="_blank" rel="noopener">10800字深度解析淘宝客这个赚钱的神秘行业</a></h5>]]></content>
+    <content type="html"><![CDATA[<h4 id="什么是淘宝客"><a href="#什么是淘宝客" class="headerlink" title="什么是淘宝客"></a>什么是淘宝客</h4><blockquote><p>淘宝客是阿里妈妈（淘宝联盟）旗下的一种按成交计费的CPS推广模式，同时也指帮助淘宝卖家推广商品并获取佣金的人。</p></blockquote><a id="more"></a><h5 id="推荐阅读：10800字深度解析淘宝客这个赚钱的神秘行业"><a href="#推荐阅读：10800字深度解析淘宝客这个赚钱的神秘行业" class="headerlink" title="推荐阅读：10800字深度解析淘宝客这个赚钱的神秘行业"></a>推荐阅读：<a href="https://mp.weixin.qq.com/s/JiQD4lxhdP82ra6pF6Y7Bw" target="_blank" rel="noopener">10800字深度解析淘宝客这个赚钱的神秘行业</a></h5>]]></content>
     
     <summary type="html">
     
-      &lt;h4 id=&quot;什么是淘宝客&quot;&gt;&lt;a href=&quot;#什么是淘宝客&quot; class=&quot;headerlink&quot; title=&quot;什么是淘宝客&quot;&gt;&lt;/a&gt;什么是淘宝客&lt;/h4&gt;&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;淘宝客是阿里妈妈（淘宝联盟）旗下的一种按成交计费的CPS推广模式，同时也指帮助淘宝卖家推广商品并获取佣金的人。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+      &lt;h4 id=&quot;什么是淘宝客&quot;&gt;&lt;a href=&quot;#什么是淘宝客&quot; class=&quot;headerlink&quot; title=&quot;什么是淘宝客&quot;&gt;&lt;/a&gt;什么是淘宝客&lt;/h4&gt;&lt;blockquote&gt;
+&lt;p&gt;淘宝客是阿里妈妈（淘宝联盟）旗下的一种按成交计费的CPS推广模式，同时也指帮助淘宝卖家推广商品并获取佣金的人。&lt;/p&gt;
+&lt;/blockquote&gt;
     
     </summary>
     
@@ -174,9 +207,9 @@
     
       <category term="Java" scheme="http://blog.lixingtk.cn/tags/Java/"/>
     
-      <category term="开发任务" scheme="http://blog.lixingtk.cn/tags/%E5%BC%80%E5%8F%91%E4%BB%BB%E5%8A%A1/"/>
-    
       <category term="淘宝客" scheme="http://blog.lixingtk.cn/tags/%E6%B7%98%E5%AE%9D%E5%AE%A2/"/>
+    
+      <category term="开发任务" scheme="http://blog.lixingtk.cn/tags/%E5%BC%80%E5%8F%91%E4%BB%BB%E5%8A%A1/"/>
     
   </entry>
   
