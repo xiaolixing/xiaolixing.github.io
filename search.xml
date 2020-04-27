@@ -74,11 +74,11 @@
       
         <tags>
             
-            <tag> Java </tag>
-            
             <tag> 安装包 </tag>
             
             <tag> Windows </tag>
+            
+            <tag> Java </tag>
             
             <tag> Redis </tag>
             
@@ -129,7 +129,7 @@
       
       <categories>
           
-          <category> Java后端 </category>
+          <category> 淘宝客 </category>
           
       </categories>
       
@@ -153,7 +153,7 @@
       <link href="/posts/19baa3a6.html"/>
       <url>/posts/19baa3a6.html</url>
       
-        <content type="html"><![CDATA[<p>微信公众号系统使用说明文档</p><a id="more"></a><p>啥也没有，这个人很懒</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>微信公众号系统使用说明文档</p><a id="more"></a><p>1、去 <code>[中心系统](http://web.sharepay.xyz)</code> 注册账号</p><p>2、完成淘宝联盟、拼多多联盟授权</p><p>3、去 <code>[公众号系统](http://wxmp.sharepay.xyz)</code> 注册账号</p><p>4、从  <code>中心系统</code>  拷贝 授权ID、拼多多授权token、拼多多PID 到 <code>公众号系统</code> </p><p>5、填入 <code>微信公众号</code> 相关信息</p><p>6、从淘宝、拼多多复制链接开始测试</p><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新中… …</p>]]></content>
       
       
       <categories>
@@ -235,7 +235,7 @@
       
       <categories>
           
-          <category> Java后端 </category>
+          <category> 淘宝客 </category>
           
       </categories>
       
