@@ -74,11 +74,11 @@
       
         <tags>
             
+            <tag> Java </tag>
+            
             <tag> 安装包 </tag>
             
             <tag> Windows </tag>
-            
-            <tag> Java </tag>
             
             <tag> Redis </tag>
             
@@ -107,11 +107,11 @@
       
         <tags>
             
-            <tag> 安装包 </tag>
-            
             <tag> 抖音 </tag>
             
             <tag> 科学上网 </tag>
+            
+            <tag> 安装包 </tag>
             
         </tags>
       
@@ -124,7 +124,7 @@
       <link href="/posts/19c2f340.html"/>
       <url>/posts/19c2f340.html</url>
       
-        <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>淘宝客-推广者-淘口令解析<br><strong><a href="https://open.taobao.com/api.htm?docId=32932&docType=2&scopeId=16290" target="_blank" rel="noopener">官方文档</a></strong></p><a id="more"></a><h2 id="接口文档"><a href="#接口文档" class="headerlink" title="接口文档"></a>接口文档</h2><p><strong>请求URL：</strong> </p><ul><li><code>/api/taoBao/getConvertTkl</code></li></ul><p><strong>请求方式：</strong></p><ul><li>GET </li></ul><p><strong>参数：</strong> </p><table><thead><tr><th align="left">参数名</th><th align="left">必选</th><th align="left">类型</th><th>说明</th></tr></thead><tbody><tr><td align="left">tkl</td><td align="left">是</td><td align="left">string</td><td>淘口令例如： ￥2gSo1O3hpQ7￥</td></tr></tbody></table><p> <strong>返回示例</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"> </span><br></pre></td></tr></table></figure><p> <strong>返回参数说明</strong> </p><table><thead><tr><th align="left">参数名</th><th align="left">类型</th><th>说明</th></tr></thead><tbody><tr><td align="left">numIid</td><td align="left">String</td><td>商品ID</td></tr></tbody></table><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新中… …</p>]]></content>
+        <content type="html"><![CDATA[<h1 id="引言"><a href="#引言" class="headerlink" title="引言"></a>引言</h1><p>淘宝客-推广者-淘口令解析<br><strong><a href="https://open.taobao.com/api.htm?docId=32932&docType=2&scopeId=16290" target="_blank" rel="noopener">官方文档</a></strong></p><a id="more"></a><h2 id="接口文档"><a href="#接口文档" class="headerlink" title="接口文档"></a>接口文档</h2><p><strong>请求URL：</strong> </p><ul><li><code>/api/taoBao/getConvertTkl</code></li></ul><p><strong>请求方式：</strong></p><ul><li>GET </li></ul><p><strong>参数：</strong> </p><table><thead><tr><th align="left">参数名</th><th align="left">必选</th><th align="left">类型</th><th>说明</th></tr></thead><tbody><tr><td align="left">apiKey</td><td align="left">是</td><td align="left">string</td><td></td></tr><tr><td align="left">tkl</td><td align="left">是</td><td align="left">string</td><td>淘口令例如： ￥2gSo1O3hpQ7￥</td></tr></tbody></table><p> <strong>返回示例</strong></p><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"> </span><br></pre></td></tr></table></figure><p> <strong>返回参数说明</strong> </p><table><thead><tr><th align="left">参数名</th><th align="left">类型</th><th>说明</th></tr></thead><tbody><tr><td align="left">numIid</td><td align="left">String</td><td>商品ID</td></tr></tbody></table><h1 id="后记"><a href="#后记" class="headerlink" title="后记"></a>后记</h1><p>持续更新中… …</p>]]></content>
       
       
       <categories>
